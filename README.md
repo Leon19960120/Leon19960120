@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e3d3975-806e-4125-9d74-686ac8da5ec3)
+
 
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon19960120&show_icons=true&theme=graywhite)
@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 -->
 
 
-- [Twitter](Your Twitter Profile)
-- [Personal Website or Blog](Your Website)
-
-I'm always open to discussing new ideas, collaborating on projects, or just having a chat about technology!
-
-Thanks for visiting my profile! Have a great day! 😄
